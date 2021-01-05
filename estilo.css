@@ -1,6 +1,6 @@
 @charset "UTF-8";
-body{background-color: #c1ccdb; text-align:center; font-family: Verdana;}
-header{width: 200px; text-align:center; color: #fff; font-size: 26px; margin: 0 auto; padding: 20px;}	
+body{background: linear-gradient(to bottom, #20344f, white); text-align:center; font-family: Verdana;}
+header{height: 100px; text-align:center; color: #fff; font-size: 26px; margin: 0 auto; padding: 20px;}	
 nav{display: flex; list-style: none; margin-left: 0; padding-left: 0; display: flex; Flax-wrap: wrap; justify-content: center;}
 li {display: inline-block; margin: 0px; font-size: 16px;}	
 li a {padding: 10px 30px; border: 4px ridge #7289a1; background-color: #20344f; text-decoration: none; color: #fff;}
